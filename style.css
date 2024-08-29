@@ -12,4 +12,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    min-height: 100vh;
+  }
+
+  .caixa-principal{
+    background-color: var(--cor-principal);
+    width: 90%;
+    text-align: center;
+    padding: 20px;
   }
